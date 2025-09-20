@@ -1,3 +1,6 @@
+project_1.py
+
+
 Base codenya dari streamlit_react_tools_app.py hanya databasenya menggunakan mysql dengan mysql.connector.
 Database lumayan besar total sekitar 9GB.
 Koneksi berhasil, show all tables using chat berhasil, show structure table berhasil,
